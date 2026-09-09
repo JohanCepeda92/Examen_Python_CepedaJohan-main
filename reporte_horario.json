@@ -1,0 +1,24 @@
+[
+    {
+        "dia": "Lunes",
+        "eventos": [
+            {
+                "materia": "Matematicas",
+                "hora_inicio": "06:00",
+                "hora_fin": "08:00",
+                "ubicacion": "Aula 302"
+            }
+        ]
+    },
+    {
+        "dia": "Viernes",
+        "eventos": [
+            {
+                "materia": "matematicas",
+                "hora_inicio": "09:00",
+                "hora_fin": "11:00",
+                "ubicacion": "100"
+            }
+        ]
+    }
+]
